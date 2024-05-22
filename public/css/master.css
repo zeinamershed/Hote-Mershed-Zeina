@@ -1,0 +1,35 @@
+body {
+  background: #000 url('../images/crop__338945_t1__1920.webp') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container .blau {
+  background-color: #8ecef8;
+  color: #002042;
+}
+
+.container .rot {
+  background-color: #f696a6;
+  color: #002042;
+	background: #000 url(../../images/crop__338945_t1__1920.webp) no-repeat center center fixed;
+}
+
+.ghost {
+  background-color: #F8F8FF !important;
+}
+
+.navTop li {
+  border-radius: 5px;
+}
+
+.blau a {
+  font-weight: bold;
+}
+
+
+.dunkel {
+	background-color: rgba(54,57,62,0.8) !important;
+	color: #fff !important;
+}
